@@ -1,0 +1,17 @@
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\entity\APIAuthorityEntity.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\controller\RouteController.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\service\APIAuthService.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\entity\GatewayRouteDefinition.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\predicate\TruePredicate.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\service\DynamicRouteServiceImpl.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\http\PartnerServerHttpRequestDecorator.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\config\CorsConfig.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\globalfilter\AuthorizeGatewayGlobalFilter.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\route\DBRouteDefinitionRepository.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\filter\AuthorizeGatewayFilterFactory.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\http\PartnerServerWebExchangeDecorator.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\entity\RouteEntity.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\GatewayApplication.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\entity\GatewayPredicateDefinition.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\filter\ElapsedGatewayFilterFactory.java
+E:\JavaWork\SpringCloudGateway\src\main\java\com\delta\mes\gateway\entity\GatewayFilterDefinition.java

@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "management.endpoint.route",
+      "type": "com.delta.mes.gateway.controller.RouteController",
+      "sourceType": "com.delta.mes.gateway.controller.RouteController"
+    }
+  ],
+  "properties": [
+    {
+      "name": "management.endpoint.route.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Whether to enable the route endpoint.",
+      "sourceType": "com.delta.mes.gateway.controller.RouteController",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}
